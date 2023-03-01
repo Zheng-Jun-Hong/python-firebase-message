@@ -1,3 +1,10 @@
+Send firebase message with python
+===
+## How to get json file
+
+create a project in [firebase console](https://console.firebase.google.com/) and produce a new key in settings->serviceaccounts (select Python).
+
+
 Setup
 ===
 
